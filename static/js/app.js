@@ -58,7 +58,7 @@ d3.selectAll(".filter").on("change", addFilters);
 // Logging filters output to console
 console.log(filters)
 
-//OPTIONAL BONUS 'LEVEL 2' - MULTIPLE SEARCH CATEGORIES
+//For filtering table by date entries
 function click1(){
     const date = d3.select('#datetime').property('value');
     let filter = tableData;
