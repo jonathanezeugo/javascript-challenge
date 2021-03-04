@@ -24,8 +24,8 @@ function buildTable(data){
     })
 }
 
-// Filters section for 'date', 'city', 'state', 'country', 'shape' and 'duration' entered 
-// by user
+// Filter table by each entry made by user. 
+// NOTE: One entry at a time. Clear all other cells before each entry for filtered table
 var filters = {};
 function addFilters(){
     var changedInput = d3.select(this).select("input");
