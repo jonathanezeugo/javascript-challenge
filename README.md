@@ -10,3 +10,5 @@ There is just one tiny problem though... our collection is too large to search t
 Welcome to JavaScript Challenge. It promises to be an interesting challenge, using JavaScript, HTML, CSS and D3.js to search through a large dataset so we can make sense of the data and present the information contained in the data for planet Earth's inhabitants to know what information about extra-terrestial menace there are and to deal with. Code written created a table dynamically based on dataset provided for the challenge. The webpage rendered from generated html will allow users to filter the table data for specific values contained in the dataset. Only pure JavaScript, HTMl, CSS and D3.js were used to design the web pages. Using filters, the user can pull specific queries from the dataset to be shown up on the page.
 
 Using either computer 'Enter' button or clicking on the 'Filter table' button, the user can query the table for specific information contained in the dataset. 
+
+UFO picture credit: www.foxnews.com (culled from Pentagon files)
